@@ -19,4 +19,4 @@ To setup a project, you need to clone the repository or download it's content an
 
 ## Tests
 
-I make basic unit tests and mocks.
+My unit tests and mocks -> https://github.com/dgoleniewski/ForTests/tree/master/app/src/test/java/com/e/fortests
